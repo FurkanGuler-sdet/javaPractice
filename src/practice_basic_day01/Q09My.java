@@ -28,7 +28,9 @@ public class Q09My {
         }else if (cevap==2){
             System.out.println("sevmiyor");
         }else System.out.println("geçersiz cevap");
-        // FIXME: 12.10.2022 
+        // FIXME: 12.10.2022
+
+        System.out.println();
 
 
 
